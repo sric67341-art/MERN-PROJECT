@@ -139,9 +139,9 @@ Use the application in your browser and test the frontend and backend APIs. Post
 
 ## 👨‍💻 Author
 
-**sric67341-art**
+**Sri charan N.**
 
-GitHub: [](https://github.com/sric67341-art)
+GitHub: [sric67341-art](https://github.com/sric67341-art)
 
 ## 📄 License
 
