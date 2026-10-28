@@ -141,7 +141,7 @@ Use the application in your browser and test the frontend and backend APIs. Post
 
 **Varaprasad G.**
 
-GitHub: [@venkataprasad509-eng](https://github.com/venkataprasad509-eng)
+GitHub: [](https://github.com/sric67341-art)
 
 ## 📄 License
 
