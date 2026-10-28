@@ -139,7 +139,7 @@ Use the application in your browser and test the frontend and backend APIs. Post
 
 ## 👨‍💻 Author
 
-**Varaprasad G.**
+**Sri charan N.**
 
 GitHub: [](https://github.com/sric67341-art)
 
